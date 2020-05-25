@@ -1,0 +1,27 @@
+---
+title: "Test presentation"
+subtitle: "Just testing"
+author: "Liza Bolton"
+institute: "University of Toronto"
+date: "2020-05-26"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: [default, metropolis, metropolis-fonts]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+# Cocktails!
+## We're going to play with presenting the cocktail data
+
+Yep, that's what we'll do.
+
+---
+class: inverse
+
+# Test
+
+Some more writing
